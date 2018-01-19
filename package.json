@@ -1,0 +1,19 @@
+{
+  "name": "realm-objects-number-bug-testcase",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-expo": "4.0.0",
+    "react-native-scripts": "1.8.1"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start --reset-cache",
+    "android": "node node_modules/react-native/local-cli/cli.js run-android"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.50.3",
+    "realm": "2.2.2"
+  }
+}
